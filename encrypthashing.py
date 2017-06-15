@@ -1,4 +1,4 @@
-_author="BaluGanesan"
+_author="BalaGanesan"
 import hashlib
 i = int(raw_input("hashing value : "))
 e=raw_input("enter your password : ")
